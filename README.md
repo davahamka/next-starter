@@ -1,5 +1,5 @@
 # My Next Starter
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b21a9cdd-87fe-4351-9e16-c1c027575428/deploy-status)](https://app.netlify.com/sites/dava-next-starter/deploys)
 
 ## **What is this?**
 
